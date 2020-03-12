@@ -1,2 +1,3 @@
-
-Thematic/.idea/
+﻿.gradle
+.idea
+*.iml
